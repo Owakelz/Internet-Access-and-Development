@@ -1,3 +1,3 @@
-# Fordham-MSBA-BAM-project
+# Internet Access and Development
 
-Group Project on the association between the expansion of internet access and development
+Studying the association between the expansion of internet access and development
